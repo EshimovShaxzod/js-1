@@ -42,3 +42,6 @@
     text-transform: uppercase;
     padding: 10px 25px;
 }
+.active{
+    color: #29292b;
+}
